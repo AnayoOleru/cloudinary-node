@@ -39,9 +39,9 @@ describe('Image checker', function () {
 //        let cloudinaryOptions;
 //        before(function () {
 //         cloudinaryOptions = {
-//           cloudName: "dvfr0z8wr",
-//           apiKey: '936284476113755',
-//           apiSecret: '3oIFZAWf9k2bjO_21zOULU27Z6w',
+//           cloudName: "23",
+//           apiKey: '44',
+//           apiSecret: '122Add',
 //         };
 //       });
 //     it('should return an object', async () => {
